@@ -1,4 +1,4 @@
-# API Definitions
-This is my API definitions research.
-You can view the site at: http://definitions.apievangelist.com/
-You can contribue using Github issues on this project.
+API Investment
+==============
+
+This is a project for preparing to understand how APIs are being invested in, visit http://investment.apievangelist.com for more information.

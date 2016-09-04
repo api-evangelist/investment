@@ -1,38 +1,37 @@
 ---
 layout: page
-title: API Definitions
+title: API Investment
 ---
 <p style="font-size: 12px; padding:5px;">
-  <img src="{{ site.project_image }}" align="right" width="90" style="padding: 10px;" />
+  <img src="{{ site.project_image }}" align="right" width="75" style="padding:10px;" />
   {{ site.project_summary }}
 </p>
 
 <center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
 <div class="row" style="vertical-align: top;" align="center">
 
-  <div class="span4" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
 
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
     <ul class="featurelist">
-      <li><a href="https://apiblueprint.org/">API Blueprint</a></li>
-      <li><a href="https://github.com/OAI/OpenAPI-Specification">The OpenAPI Specification</a></li>
-      <li><a href="http://definitions.apievangelist.com/openapi-spec/platform-integrations/">OpenAPI Spec Platform Integrations</a></li>
-      <li><a href="http://definitions.apievangelist.com/openapi-spec/external-integrations/">OpenAPI Spec External Integrations</a></li>
-      <li><a href="http://definitions.apievangelist.com/openapi-spec/interactive-documentation/">OpenAPI Spec Interactive Documentation</a></li>
-      <li><a href="http://definitions.apievangelist.com/openapi-spec/building-blocks/">OpenAPI Spec Building Blocks</a></li>
-      <li><a href="http://definitions.apievangelist.com/openapi-spec/tooling/">OpenAPI Spec Tooling</a></li>
-      <li><a href="http://definitions.apievangelist.com/openapi-spec/extensions/">OpenAPI Spec Extensions</a></li>
+      <li><a href="http://apievangelist.com/2016/01/07/using-apis-to-address-regulatory-uncertainty-involved-in-crossborder-data-flows/">Using APIs To Address Regulatory Uncertainty Involved In Cross-Border Data Flows</a></li>
+      <li><a href="http://apievangelist.com/2015/03/27/politics-of-apis-talk-of-api-driven-regulation-is-increasing/">Politics of APIs: Talk Of API Driven Regulation Is Increasing</a></li>
+      <li><a href="http://apievangelist.com/2011/11/03/an-api-driven-government-regulatory-framework/">An API Driven Government Regulatory Framework</a></li>
     </ul>
 
   </div>
   <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
-
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
     <ul class="newslist">
-      {% for post in site.posts limit:4 %}
-      {% if post.title != null %}
-        <li><a href="{{ post.source }}">{{ post.title }}</a></li>
-      {% endif %}
+      {% assign totalpost = 4 %}
+      {% assign countpost = 1 %}
+      {% for post in site.posts limit:75 %}
+        {% if post.title != null %}
+          {% if countpost < totalpost %}
+            <li><a href="{{ post.source }}">{{ post.title }}</a></li>
+          {% assign countpost = countpost | plus: 1 %}
+          {% endif %}
+        {% endif %}
       {% endfor %}
     </ul>
 
@@ -55,7 +54,7 @@ title: API Definitions
           });
       });
     </script>
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest Analysis</strong><a href="http://apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a><</p>
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest Analysis</strong><a href="http://apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
     <ul class="newslist" id="rssNews"></ul>
 
   </div>
@@ -67,7 +66,7 @@ title: API Definitions
   <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
 
     <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://spreadsheets.apievangelist.com"><strong><span style="font-size: 20px;">&#8666;</span>&nbsp;&nbsp;Visit My Research On Spreadsheets</strong></a></li>
+      <li><a href="#"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-101.jpg" width="45" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;Learn The Basics From This Research</strong></a></li>
     </ul>
 
   </div>
@@ -75,7 +74,28 @@ title: API Definitions
   <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
 
     <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://monetization.apievangelist.com"><strong>Visit My API Monetization Research&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+      <li><a href="http://branding.apievangelist.com"><strong>Visit My Research On API Branding&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <!--
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://bit.ly/1JZBO9f">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-pdf.png" width="22" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;&nbsp;View the PDF of This Research</strong></a></li>
+    </ul>
+    -->
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://patents.apievangelist.com"><strong>Visit My Research On API Patents&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
     </ul>
 
   </div>
