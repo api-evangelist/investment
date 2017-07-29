@@ -11,17 +11,17 @@
   url: http://www.vccircle.com/news/technology/2015/03/11/cloud-based-billing-solutions-co-chargebee-raises-5m-series-b-tiger-accel
   domain: www.vccircle.com
   image: ""
-- curated_id: 803b2972b564f032556f9bbedd802ff6
-  item_date: "2015-03-18 00:00:00"
-  title: Predictive analytics player InsideSales raises $60 million led by Salesforce
-  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4487b17f/sc/3/l/0L0Szdnet0N0Carticle0Cpredictive0Eanalytics0Eplayer0Einsidesales0Eraises0E60A0Emillion0Eled0Eby0Esalesforce0C0Tftag0FRSSbaffb68/story01.htm
-  domain: zdnet.com.feedsportal.com
-  image: ""
 - curated_id: 5fd6a344444b09a3dcf154a8572ca903
   item_date: "2015-03-18 00:00:00"
   title: Chargebee Raises $5 Million
   url: http://www.thetechbulletin.com/chargebee-raises-5-million-tiger-global-19653/
   domain: www.thetechbulletin.com
+  image: ""
+- curated_id: 803b2972b564f032556f9bbedd802ff6
+  item_date: "2015-03-18 00:00:00"
+  title: Predictive analytics player InsideSales raises $60 million led by Salesforce
+  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4487b17f/sc/3/l/0L0Szdnet0N0Carticle0Cpredictive0Eanalytics0Eplayer0Einsidesales0Eraises0E60A0Emillion0Eled0Eby0Esalesforce0C0Tftag0FRSSbaffb68/story01.htm
+  domain: zdnet.com.feedsportal.com
   image: ""
 - curated_id: eb1dec283e57fc4b36b24547a4c7137d
   item_date: "2015-03-24 00:00:00"
@@ -48,17 +48,24 @@
   url: http://venturebeat.com/2015/04/06/coreos-raises-12m-and-introduces-its-tectonic-platform-featuring-kubernetes/
   domain: venturebeat.com
   image: ""
+- curated_id: 3896b936044c5d883ce11bf41d2aa1e1
+  item_date: "2015-04-14 00:00:00"
+  title: Network Security Start-Up Illumio Raises $100 Million
+  url: http://www.nytimes.com/2015/04/15/business/dealbook/network-security-start-up-illumio-raises-100-million.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: ce8a36e690d0f34e20530dfdba095206
   item_date: "2015-04-14 00:00:00"
   title: 'Bits Blog: Docker Raises Another $95 Million in Funding'
   url: http://bits.blogs.nytimes.com/2015/04/14/docker-raises-another-95-million-in-funding//partner=rss&amp;emc=rss
   domain: bits.blogs.nytimes.com
   image: ""
-- curated_id: a622db8c3398b8cff734e59d613554a2
+- curated_id: a4a91fd3ba79d402e3c955575d385634
   item_date: "2015-04-14 00:00:00"
-  title: Docker Announces $95m Series D Funding Round
-  url: http://blog.docker.com/2015/04/dockers-new-funding-keeps-us-focused-on-our-priorities-and-commitments/
-  domain: blog.docker.com
+  title: ?Uber for pot? app Eaze raises $10 million and a would-be Kalanick gets his
+    wings
+  url: http://pando.com/2015/04/14/uber-for-pot-app-eaze-raises-10-million-and-a-would-be-kalanick-gets-his-wings/
+  domain: pando.com
   image: ""
 - curated_id: ce8a36e690d0f34e20530dfdba095206
   item_date: "2015-04-14 00:00:00"
@@ -73,24 +80,17 @@
   url: http://www.businessinsider.com/docker-raises-95-million-to-fight-coreos-and-google-2015-4
   domain: www.businessinsider.com
   image: ""
+- curated_id: a622db8c3398b8cff734e59d613554a2
+  item_date: "2015-04-14 00:00:00"
+  title: Docker Announces $95m Series D Funding Round
+  url: http://blog.docker.com/2015/04/dockers-new-funding-keeps-us-focused-on-our-priorities-and-commitments/
+  domain: blog.docker.com
+  image: ""
 - curated_id: ce8a36e690d0f34e20530dfdba095206
   item_date: "2015-04-14 00:00:00"
   title: 'Bits Blog: Docker Raises Another $95 Million in Funding'
   url: http://bits.blogs.nytimes.com/2015/04/14/docker-raises-another-95-million-in-funding//partner=rss&amp;emc=rss
   domain: bits.blogs.nytimes.com
-  image: ""
-- curated_id: 3896b936044c5d883ce11bf41d2aa1e1
-  item_date: "2015-04-14 00:00:00"
-  title: Network Security Start-Up Illumio Raises $100 Million
-  url: http://www.nytimes.com/2015/04/15/business/dealbook/network-security-start-up-illumio-raises-100-million.html
-  domain: www.nytimes.com
-  image: ""
-- curated_id: a4a91fd3ba79d402e3c955575d385634
-  item_date: "2015-04-14 00:00:00"
-  title: ?Uber for pot? app Eaze raises $10 million and a would-be Kalanick gets his
-    wings
-  url: http://pando.com/2015/04/14/uber-for-pot-app-eaze-raises-10-million-and-a-would-be-kalanick-gets-his-wings/
-  domain: pando.com
   image: ""
 - curated_id: 3c0042cf875c1a08e058ceed52175d34
   item_date: "2015-04-16 00:00:00"
@@ -122,23 +122,23 @@
   url: http://bankinnovation.net/2015/05/investment-round-in-cheddar-starts-heating-up/
   domain: bankinnovation.net
   image: ""
-- curated_id: 3449c2ac78bff017c8cb967ab86a857d
-  item_date: "2015-05-07 00:00:00"
-  title: '?Fitbit files for IPO: 7 key facts'
-  url: http://www.zdnet.com/article/fitbit-files-for-ipo-7-key-facts/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: 417a44e7b5315b49f13fb6398b99dcf8
   item_date: "2015-05-07 00:00:00"
   title: Fitbit files to raise up to $100M in IPO
   url: http://venturebeat.com/2015/05/07/fitbit-files-to-raise-up-to-100m-in-ipo/
   domain: venturebeat.com
   image: ""
-- curated_id: d8fb3d3c60a8ec6f2c866b863a56dee8
+- curated_id: 3449c2ac78bff017c8cb967ab86a857d
+  item_date: "2015-05-07 00:00:00"
+  title: '?Fitbit files for IPO: 7 key facts'
+  url: http://www.zdnet.com/article/fitbit-files-for-ipo-7-key-facts/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 753c5a2b34f1621a2d5075ec6840a9ba
   item_date: "2015-05-11 00:00:00"
-  title: ""
-  url: http://www.businessinsider.com/mmc-ventures-sky-futures-invests-25-million-in-oil-drone-company-2015-5
-  domain: www.businessinsider.com
+  title: Mode takes $775K for cloud IoT platform
+  url: http://venturebeat.com/2015/05/11/mode-takes-775k-for-cloud-iot-platform/
+  domain: venturebeat.com
   image: ""
 - curated_id: 6f4984b9dd889c097a09dcfba1f70b2f
   item_date: "2015-05-11 00:00:00"
@@ -146,11 +146,11 @@
   url: http://venturebeat.com/2015/05/11/strongdm-raises-800k-to-push-a-new-tool-for-detecting-data-errors/
   domain: venturebeat.com
   image: ""
-- curated_id: 753c5a2b34f1621a2d5075ec6840a9ba
+- curated_id: d8fb3d3c60a8ec6f2c866b863a56dee8
   item_date: "2015-05-11 00:00:00"
-  title: Mode takes $775K for cloud IoT platform
-  url: http://venturebeat.com/2015/05/11/mode-takes-775k-for-cloud-iot-platform/
-  domain: venturebeat.com
+  title: ""
+  url: http://www.businessinsider.com/mmc-ventures-sky-futures-invests-25-million-in-oil-drone-company-2015-5
+  domain: www.businessinsider.com
   image: ""
 - curated_id: f9ae88b3bc233ce12b539d8b5268e824
   item_date: "2015-05-12 08:53:34"
@@ -218,12 +218,6 @@
   url: http://pando.com/2015/06/08/menlo-security-gets-25-million-to-isolate-and-eliminate-malware/
   domain: pando.com
   image: ""
-- curated_id: aa997c30bf861905f2b4f3b4a03158e7
-  item_date: "2015-06-10 00:00:00"
-  title: Spotify Sells 1.4% Stake for $115 Million
-  url: http://www.nytimes.com/2015/06/11/business/media/spotify-sells-1-4-stake-for-115-million.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: c25af608584638ac956fd12a5146e281
   item_date: "2015-06-10 00:00:00"
   title: Box pops 9% after announcing $65.6M in revenue, shrinking losses in second-ever
@@ -231,10 +225,10 @@
   url: http://venturebeat.com/2015/06/10/box-pops-9-after-announcing-65-6m-in-revenue-shrinking-losses-in-second-ever-earnings-report/
   domain: venturebeat.com
   image: ""
-- curated_id: f5ee9033991fe56932446d180014819a
-  item_date: "2015-06-16 00:00:00"
-  title: Fitbit Raises Price Range for I.P.O.
-  url: http://www.nytimes.com/2015/06/17/business/dealbook/fitbit-raises-price-range-for-ipo.html
+- curated_id: aa997c30bf861905f2b4f3b4a03158e7
+  item_date: "2015-06-10 00:00:00"
+  title: Spotify Sells 1.4% Stake for $115 Million
+  url: http://www.nytimes.com/2015/06/11/business/media/spotify-sells-1-4-stake-for-115-million.html
   domain: www.nytimes.com
   image: ""
 - curated_id: 11c298e2bd771f1c2a0d96e95658ed92
@@ -244,17 +238,17 @@
   url: https://www.macfound.org/press/press-releases/impact-investments-help-advance-energy-efficiency-financing-multifamily-housing/
   domain: www.macfound.org
   image: ""
+- curated_id: f5ee9033991fe56932446d180014819a
+  item_date: "2015-06-16 00:00:00"
+  title: Fitbit Raises Price Range for I.P.O.
+  url: http://www.nytimes.com/2015/06/17/business/dealbook/fitbit-raises-price-range-for-ipo.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: b5d0b8b01cf7ea394b8ee7558d08e647
   item_date: "2015-06-17 00:00:00"
   title: Mapping platform Mapbox raises $52M
   url: http://venturebeat.com/2015/06/17/mapping-platform-mapbox-raises-52m/
   domain: venturebeat.com
-  image: ""
-- curated_id: 4650ab4e05f2919e6d26b25853eec499
-  item_date: "2015-06-17 11:13:23"
-  title: Mapbox Raises $52.6M Led By DFJ To Be The ?Map Layer? For All Apps  |  TechCrunch
-  url: http://techcrunch.com/2015/06/17/mapbox-raises-52-6m-led-by-dfj-to-build-the-map-layer-for-all-apps/
-  domain: techcrunch.com
   image: ""
 - curated_id: d92edcc31c3b52d1615ce767a53fe6b3
   item_date: "2015-06-17 11:13:23"
@@ -262,17 +256,29 @@
   url: https://techcrunch.com/2015/06/17/mapbox-raises-52-6m-led-by-dfj-to-build-the-map-layer-for-all-apps/
   domain: techcrunch.com
   image: ""
-- curated_id: 52a1523dab2dc1e70961cad9d40da460
-  item_date: "2015-06-18 00:00:00"
-  title: Healthcare Cloud Platform Sikka Software Secures $10.5 Million Series C...
-  url: http://www.crowdfundinsider.com/2015/06/69782-healthcare-cloud-platform-sikka-software-secures-10-5-million-series-c-round/
-  domain: www.crowdfundinsider.com
+- curated_id: 4650ab4e05f2919e6d26b25853eec499
+  item_date: "2015-06-17 11:13:23"
+  title: Mapbox Raises $52.6M Led By DFJ To Be The ?Map Layer? For All Apps  |  TechCrunch
+  url: http://techcrunch.com/2015/06/17/mapbox-raises-52-6m-led-by-dfj-to-build-the-map-layer-for-all-apps/
+  domain: techcrunch.com
   image: ""
 - curated_id: 4229f9a8082f884d1495660c5ef267db
   item_date: "2015-06-18 00:00:00"
   title: Fitbit opens up 52% (FIT)
   url: http://www.businessinsider.com/fitbit-ipo-june-18-2015-6
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 52a1523dab2dc1e70961cad9d40da460
+  item_date: "2015-06-18 00:00:00"
+  title: Healthcare Cloud Platform Sikka Software Secures $10.5 Million Series C...
+  url: http://www.crowdfundinsider.com/2015/06/69782-healthcare-cloud-platform-sikka-software-secures-10-5-million-series-c-round/
+  domain: www.crowdfundinsider.com
+  image: ""
+- curated_id: 42fcb8de7345f08361c77f8d7c9e6973
+  item_date: "2015-06-19 00:00:00"
+  title: Fitbit IPO still fit ? up another 10% on second day of trading
+  url: http://venturebeat.com/2015/06/19/fitbit-ipo-still-fit-up-another-10-percent-on-second-day-of-trading/
+  domain: venturebeat.com
   image: ""
 - curated_id: 0fc728405f723d62584b538cdd8b8171
   item_date: "2015-06-19 00:00:00"
@@ -284,12 +290,6 @@
   item_date: "2015-06-19 00:00:00"
   title: HP Ventures backs data-integration startup Tamr in $25.2M round
   url: http://venturebeat.com/2015/06/19/hp-ventures-backs-data-integration-startup-tamr-in-25-2m-round/
-  domain: venturebeat.com
-  image: ""
-- curated_id: 42fcb8de7345f08361c77f8d7c9e6973
-  item_date: "2015-06-19 00:00:00"
-  title: Fitbit IPO still fit ? up another 10% on second day of trading
-  url: http://venturebeat.com/2015/06/19/fitbit-ipo-still-fit-up-another-10-percent-on-second-day-of-trading/
   domain: venturebeat.com
   image: ""
 - curated_id: c55fc73bf1fa607bacdbddb798f1d5c9
@@ -310,6 +310,30 @@
   url: http://venturebeat.com/2015/06/24/hackerone-raises-25m-to-make-the-internet-safer-via-bug-bounty-programs/
   domain: venturebeat.com
   image: ""
+- curated_id: 56359217f9a358153df1f545b3f5b3a2
+  item_date: "2015-06-25 00:00:00"
+  title: New ? Alexa Skills Kit, Alexa Voice Service, Alexa Fund
+  url: https://aws.amazon.com/blogs/aws/new-alexa-skills-kit-alexa-voice-service-alexa-fund/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 92c7211f436104615b47d208281860c8
+  item_date: "2015-06-25 00:00:00"
+  title: Automatic parks $24M to connect your car
+  url: http://venturebeat.com/2015/06/25/automatic-parks-24m-to-connect-your-car/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 68fbb122c87b64607f8c7709e61a58c9
+  item_date: "2015-06-25 00:00:00"
+  title: ?Amazon throws in $100 million, developer tools to open Echos Alexa ecosystem
+  url: http://www.zdnet.com/article/amazon-throws-100-million-developer-tools-to-open-echos-alexa-ecosystem/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 3fa178de5c4e64bbfcfcf54cf0f12f24
+  item_date: "2015-06-25 00:00:00"
+  title: Build New Voice Experiences with Help from the Alexa Fund
+  url: https://developer.amazon.com/appsandservices/community/post/Tx28SME1SP9H8I4/Build-New-Voice-Experiences-with-Help-from-the-Alexa-Fund
+  domain: developer.amazon.com
+  image: ""
 - curated_id: 383ec5111f641b7bf1d910a1b5c206c0
   item_date: "2015-06-25 00:00:00"
   title: Snap-together electronics maker LittleBits raises $44M, hires former Makerbot
@@ -323,29 +347,11 @@
   url: http://www.zdnet.com/article/connected-car-platform-automatic-raises-24-million-led-by-usaa/#ftag=RSSbaffb68
   domain: www.zdnet.com
   image: ""
-- curated_id: 3fa178de5c4e64bbfcfcf54cf0f12f24
-  item_date: "2015-06-25 00:00:00"
-  title: Build New Voice Experiences with Help from the Alexa Fund
-  url: https://developer.amazon.com/appsandservices/community/post/Tx28SME1SP9H8I4/Build-New-Voice-Experiences-with-Help-from-the-Alexa-Fund
-  domain: developer.amazon.com
-  image: ""
-- curated_id: 56359217f9a358153df1f545b3f5b3a2
-  item_date: "2015-06-25 00:00:00"
-  title: New ? Alexa Skills Kit, Alexa Voice Service, Alexa Fund
-  url: https://aws.amazon.com/blogs/aws/new-alexa-skills-kit-alexa-voice-service-alexa-fund/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: 68fbb122c87b64607f8c7709e61a58c9
-  item_date: "2015-06-25 00:00:00"
-  title: ?Amazon throws in $100 million, developer tools to open Echos Alexa ecosystem
-  url: http://www.zdnet.com/article/amazon-throws-100-million-developer-tools-to-open-echos-alexa-ecosystem/#ftag=RSSbaffb68
-  domain: www.zdnet.com
-  image: ""
-- curated_id: 92c7211f436104615b47d208281860c8
-  item_date: "2015-06-25 00:00:00"
-  title: Automatic parks $24M to connect your car
-  url: http://venturebeat.com/2015/06/25/automatic-parks-24m-to-connect-your-car/
-  domain: venturebeat.com
+- curated_id: cc50b75a068eec7212350ede14b9b78e
+  item_date: "2015-06-26 00:00:00"
+  title: Digital Asset Holdings Buys Blockchain Startup Hyperledger
+  url: http://bankinnovation.net/2015/06/digital-asset-holdings-buys-hyperledger/
+  domain: bankinnovation.net
   image: ""
 - curated_id: 5b6182c9aaa1d7b901544317a2b22029
   item_date: "2015-06-26 00:00:00"
@@ -353,12 +359,6 @@
     with $3.4 million from the Sloan and Knight foundations
   url: http://dp.la/info/2015/06/26/digital-public-library-of-america-makes-push-to-serve-all-50-states-by-2017-with-3-4-million-from-the-sloan-and-knight-foundations/
   domain: dp.la
-  image: ""
-- curated_id: cc50b75a068eec7212350ede14b9b78e
-  item_date: "2015-06-26 00:00:00"
-  title: Digital Asset Holdings Buys Blockchain Startup Hyperledger
-  url: http://bankinnovation.net/2015/06/digital-asset-holdings-buys-hyperledger/
-  domain: bankinnovation.net
   image: ""
 - curated_id: 57cbd90c7c826fd65ffe4e1f1370418a
   item_date: "2015-07-08 00:00:00"
@@ -434,12 +434,6 @@
   url: https://18f.gsa.gov/2015/11/06/micro-purchase-lessons/
   domain: 18f.gsa.gov
   image: ""
-- curated_id: 2aad270f369a49125e3b1b72a911f020
-  item_date: "2016-01-14 00:00:00"
-  title: Mobile Data Firm PlaceIQ Raises $25 Million
-  url: http://placeiq.com/2016/01/14/mobile-data-firm-placeiq-raises-25-million/
-  domain: placeiq.com
-  image: ""
 - curated_id: 6104948c03751748ba18e816221f4c5a
   item_date: "2016-01-14 00:00:00"
   title: Data analytics startup Looker raises $48 million, led by Kleiner Perkins
@@ -454,11 +448,11 @@
   url: http://placeiq.com/2016/01/14/placeiq-secures-25-million-funding-round-to-meet-accelerating-demand-for-its-proprietary-data-solutions-among-media-and-enterprise-customers-and-to-expand-its-industry-leading-location-data-platform/
   domain: placeiq.com
   image: ""
-- curated_id: 629957da49063de50a99637f91234b85
-  item_date: "2016-01-26 00:00:00"
-  title: ParkWhiz Raises $24 Million in New Funding and Acquires BestParking
-  url: http://www.parkwhiz.com/blog/parkwhiz-raises-24-million-in-new-funding-and-acquires-bestparking
-  domain: www.parkwhiz.com
+- curated_id: 2aad270f369a49125e3b1b72a911f020
+  item_date: "2016-01-14 00:00:00"
+  title: Mobile Data Firm PlaceIQ Raises $25 Million
+  url: http://placeiq.com/2016/01/14/mobile-data-firm-placeiq-raises-25-million/
+  domain: placeiq.com
   image: ""
 - curated_id: 1b9b6a8a60828d6f00abdde70273f9f6
   item_date: "2016-01-26 00:00:00"
@@ -471,6 +465,12 @@
   title: Cybersecurity startup Fireglass raises $20 million
   url: http://www.zdnet.com/article/cybersecurity-startup-fireglass-raises-20-million/#ftag=RSSbaffb68
   domain: www.zdnet.com
+  image: ""
+- curated_id: 629957da49063de50a99637f91234b85
+  item_date: "2016-01-26 00:00:00"
+  title: ParkWhiz Raises $24 Million in New Funding and Acquires BestParking
+  url: http://www.parkwhiz.com/blog/parkwhiz-raises-24-million-in-new-funding-and-acquires-bestparking
+  domain: www.parkwhiz.com
   image: ""
 - curated_id: 353aa1920d66d65d57355d0f879551d9
   item_date: "2016-02-01 00:00:00"
@@ -490,17 +490,17 @@
   url: http://www.businessinsider.com/vc-investment-into-drones-2011-2014-2016-2
   domain: www.businessinsider.com
   image: ""
-- curated_id: 0decf0cd55579bfe1fb0b2c04ba692eb
-  item_date: "2016-02-12 00:00:00"
-  title: Security vendor expects slower spending in cyber security
-  url: http://disruptiveviews.com/security-vendor-expects-slower-spending-in-cyber-security/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: 3d02f3cdc0c1244487fbdc5f3b8d6c65
   item_date: "2016-02-12 00:00:00"
   title: The Inside Story on Why BBVA Launched Propel Ventures
   url: http://bankinnovation.net/2016/02/the-inside-story-on-why-bbva-launched-propel-ventures/
   domain: bankinnovation.net
+  image: ""
+- curated_id: 0decf0cd55579bfe1fb0b2c04ba692eb
+  item_date: "2016-02-12 00:00:00"
+  title: Security vendor expects slower spending in cyber security
+  url: http://disruptiveviews.com/security-vendor-expects-slower-spending-in-cyber-security/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 995ac7b86ca40f7b453158d022dd04bf
   item_date: "2016-02-18 00:00:00"
@@ -584,17 +584,17 @@
   url: https://medium.com/mit-media-lab-digital-currency-initiative/announcing-a-900-000-bitcoin-developer-fund-6e8b7e8b0861
   domain: medium.com
   image: ""
-- curated_id: 8942b52087d3c56b81bfd47a8dde5116
-  item_date: "2016-03-29 00:00:00"
-  title: MIT Rides to the Rescue of Bitcoin with $900,000 Developer Fund
-  url: http://bankinnovation.net/2016/03/mit-rides-to-the-rescue-of-bitcoin-with-900000-developer-fund/
-  domain: bankinnovation.net
-  image: ""
 - curated_id: a5ea5bcc76c9ed1f677ba03b0e5d2e10
   item_date: "2016-03-29 00:00:00"
   title: LinkedIn is trending in the wrong direction (LNKD)
   url: http://www.businessinsider.com/barclays-note-says-linkedin-is-trending-in-the-wrong-direction-2016-3
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 8942b52087d3c56b81bfd47a8dde5116
+  item_date: "2016-03-29 00:00:00"
+  title: MIT Rides to the Rescue of Bitcoin with $900,000 Developer Fund
+  url: http://bankinnovation.net/2016/03/mit-rides-to-the-rescue-of-bitcoin-with-900000-developer-fund/
+  domain: bankinnovation.net
   image: ""
 - curated_id: db0c8016269d217e0175f6995d3114ec
   item_date: "2016-04-01 00:00:00"
@@ -609,6 +609,13 @@
   url: http://www.zdnet.com/article/slack-raises-200-million-at-3-8-billion-valuation/#ftag=RSSbaffb68
   domain: www.zdnet.com
   image: ""
+- curated_id: 1633155a4346873e81e6562e62ac163f
+  item_date: "2016-04-07 00:00:00"
+  title: X.ai raises $23 million for its AI personal assistant, plans to launch this
+    fall
+  url: http://venturebeat.com/2016/04/07/x-ai-raises-23-million-for-its-ai-personal-assistant-plans-to-launch-this-fall/
+  domain: venturebeat.com
+  image: ""
 - curated_id: 138ffa284a73d7a970216e72cf0dd3bd
   item_date: "2016-04-07 00:00:00"
   title: The company behind a human-like AI bot who organizes your meetings just raised
@@ -621,13 +628,6 @@
   title: Running an API-based company is a lot like running a venture fund
   url: http://www.dqindia.com/running-an-api-based-company-is-a-lot-like-running-a-venture-fund/
   domain: www.dqindia.com
-  image: ""
-- curated_id: 1633155a4346873e81e6562e62ac163f
-  item_date: "2016-04-07 00:00:00"
-  title: X.ai raises $23 million for its AI personal assistant, plans to launch this
-    fall
-  url: http://venturebeat.com/2016/04/07/x-ai-raises-23-million-for-its-ai-personal-assistant-plans-to-launch-this-fall/
-  domain: venturebeat.com
   image: ""
 - curated_id: f80ca46b9e459e441d5400b194841b56
   item_date: "2016-04-18 13:23:56"
@@ -745,18 +745,6 @@
   url: https://blog.wikimedia.org/2016/06/18/ieg-eight-projects/
   domain: blog.wikimedia.org
   image: ""
-- curated_id: 313d7067cafd36e1b404cd2eee45395a
-  item_date: "2016-06-22 00:00:00"
-  title: Twilio, the closely watched tech IPO, is already beating Wall Street expectations
-  url: http://www.businessinsider.com/twilio-prices-ipo-2016-6
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: ddc3c51bdd15d561c66ed41e1700c9a7
-  item_date: "2016-06-22 00:00:00"
-  title: Investors are backing more AI startups than ever before
-  url: http://www.businessinsider.com/investors-are-backing-more-ai-startups-than-ever-before-2016-6
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: 06a5907d2cb96879c4f25db803098479
   item_date: "2016-06-22 00:00:00"
   title: Red Hat acquires API management firm 3scale, posts Q1 results
@@ -768,6 +756,37 @@
   title: Post Earnings Coverage as Red Hat Posts Impressive Numbers
   url: http://www.kxnet.com/story/32290272/post-earnings-coverage-as-red-hat-posts-impressive-numbers
   domain: www.kxnet.com
+  image: ""
+- curated_id: ddc3c51bdd15d561c66ed41e1700c9a7
+  item_date: "2016-06-22 00:00:00"
+  title: Investors are backing more AI startups than ever before
+  url: http://www.businessinsider.com/investors-are-backing-more-ai-startups-than-ever-before-2016-6
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 313d7067cafd36e1b404cd2eee45395a
+  item_date: "2016-06-22 00:00:00"
+  title: Twilio, the closely watched tech IPO, is already beating Wall Street expectations
+  url: http://www.businessinsider.com/twilio-prices-ipo-2016-6
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: ff66a8ee7a82f170bb23b0c90edd6df1
+  item_date: "2016-06-23 00:00:00"
+  title: Twilio built 3 apps on the floor of the NYSE to celebrate its IPO
+  url: http://thenextweb.com/apps/2016/06/23/twilio-ipo-a-go-go/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 91a0d403bb86e299ae5f9464ff9ef602
+  item_date: "2016-06-23 00:00:00"
+  title: 'Twilio IPO launches: Why its successful'
+  url: http://www.zdnet.com/article/twilio-ipo-launches-why-its-successful/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 601ce69a5a9d41b7d62123ec0e4d268b
+  item_date: "2016-06-23 00:00:00"
+  title: Matter launches in NYC with help from Google and New York Times, reveals
+    new startup class
+  url: http://www.niemanlab.org/2016/06/matter-launches-in-nyc-with-help-from-google-and-new-york-times-reveals-new-startup-class/
+  domain: www.niemanlab.org
   image: ""
 - curated_id: 1da9b0f66ed5df50d7863f655d3c0279
   item_date: "2016-06-23 00:00:00"
@@ -786,25 +805,6 @@
   title: Twilios CEO just got $100 million richer (TWLO)
   url: http://www.businessinsider.com/twilio-ceo-jeff-lawson-gains-100-million-in-ipo-2016-6
   domain: www.businessinsider.com
-  image: ""
-- curated_id: 601ce69a5a9d41b7d62123ec0e4d268b
-  item_date: "2016-06-23 00:00:00"
-  title: Matter launches in NYC with help from Google and New York Times, reveals
-    new startup class
-  url: http://www.niemanlab.org/2016/06/matter-launches-in-nyc-with-help-from-google-and-new-york-times-reveals-new-startup-class/
-  domain: www.niemanlab.org
-  image: ""
-- curated_id: ff66a8ee7a82f170bb23b0c90edd6df1
-  item_date: "2016-06-23 00:00:00"
-  title: Twilio built 3 apps on the floor of the NYSE to celebrate its IPO
-  url: http://thenextweb.com/apps/2016/06/23/twilio-ipo-a-go-go/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 91a0d403bb86e299ae5f9464ff9ef602
-  item_date: "2016-06-23 00:00:00"
-  title: 'Twilio IPO launches: Why its successful'
-  url: http://www.zdnet.com/article/twilio-ipo-launches-why-its-successful/
-  domain: www.zdnet.com
   image: ""
 - curated_id: 5bf6c437b55c4f136078fa0d7b87ae91
   item_date: "2016-06-26 00:00:00"
@@ -825,16 +825,16 @@
   url: https://blog.wikimedia.org/2016/07/01/project-grants/
   domain: blog.wikimedia.org
   image: ""
-- curated_id: 7d0c845744c9c6f28addce4b133b43e2
-  item_date: "2016-07-06 00:00:00"
-  title: Agriculture tech startup KisanHub raises $1M Seed
-  url: https://techcrunch.com/2016/07/06/kisanhub/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 6d8ee2a3727c86a388eca2f6ef989848
   item_date: "2016-07-06 00:00:00"
   title: Germany?s Brillen raises $49M from TCV to take its eyewear marketplace international
   url: https://techcrunch.com/2016/07/06/germanys-brillen-raises-49m-from-tcv-to-take-its-eyewear-marketplace-international/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 7d0c845744c9c6f28addce4b133b43e2
+  item_date: "2016-07-06 00:00:00"
+  title: Agriculture tech startup KisanHub raises $1M Seed
+  url: https://techcrunch.com/2016/07/06/kisanhub/
   domain: techcrunch.com
   image: ""
 - curated_id: b6f725fee96b0d32a95fd07b536c4e4c
@@ -869,11 +869,11 @@
   url: https://medium.com/slack-developer-blog/investing-in-the-future-of-work-d4ffb87f985#.g31tdc4yf
   domain: medium.com
   image: ""
-- curated_id: e9bcbd2be7aa9a4488dd8a8e2db1c977
+- curated_id: 8b3850386d30dbbf9c1a2023d2b76fdf
   item_date: "2016-07-21 00:00:00"
-  title: Pandora shares drop after it rejects $3.5B buyout from SiriusXM
-  url: https://techcrunch.com/2016/07/21/pandora-has-mediocre-earnings-with-listeners-leaving-and-rdio-still-silent/
-  domain: techcrunch.com
+  title: 'Red Hat Inc (NYSE:RHT): Strong Price Momentum But will It Sustain?'
+  url: http://www.streetreport.co/red-hat-inc-nyserht-strong-price-momentum-but-will-it-sustain/50149/
+  domain: www.streetreport.co
   image: ""
 - curated_id: c297d897de8146bb51facdef198e9135
   item_date: "2016-07-21 00:00:00"
@@ -881,11 +881,11 @@
   url: http://www.reuters.com/article/idUSFWN1A70UY
   domain: www.reuters.com
   image: ""
-- curated_id: 8b3850386d30dbbf9c1a2023d2b76fdf
+- curated_id: e9bcbd2be7aa9a4488dd8a8e2db1c977
   item_date: "2016-07-21 00:00:00"
-  title: 'Red Hat Inc (NYSE:RHT): Strong Price Momentum But will It Sustain?'
-  url: http://www.streetreport.co/red-hat-inc-nyserht-strong-price-momentum-but-will-it-sustain/50149/
-  domain: www.streetreport.co
+  title: Pandora shares drop after it rejects $3.5B buyout from SiriusXM
+  url: https://techcrunch.com/2016/07/21/pandora-has-mediocre-earnings-with-listeners-leaving-and-rdio-still-silent/
+  domain: techcrunch.com
   image: ""
 - curated_id: f921461a890f7d4c765836ac240b4e93
   item_date: "2016-07-27 00:00:00"
@@ -918,12 +918,6 @@
   url: http://www.zdnet.com/article/tesla-to-buy-solarcity-for-2-6-billion/
   domain: www.zdnet.com
   image: ""
-- curated_id: 079d9c37ded39b668dc63599079e2f91
-  item_date: "2016-08-02 00:00:00"
-  title: Distil scores $21 million Series C to crush bad bots
-  url: https://techcrunch.com/2016/08/02/distil-shoots-for-profitability-after-21-million-series-c-raise/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 083d858fdcf2d4fee15051abab83fa6c
   item_date: "2016-08-02 00:00:00"
   title: Attic Labs raises $8.1M and launches its new decentralized database
@@ -936,22 +930,28 @@
   url: https://techcrunch.com/2016/08/02/zype-more-seed-funding/
   domain: techcrunch.com
   image: ""
+- curated_id: 079d9c37ded39b668dc63599079e2f91
+  item_date: "2016-08-02 00:00:00"
+  title: Distil scores $21 million Series C to crush bad bots
+  url: https://techcrunch.com/2016/08/02/distil-shoots-for-profitability-after-21-million-series-c-raise/
+  domain: techcrunch.com
+  image: ""
 - curated_id: 86c4b5fc5fb524b3bc427dcd9cfdc60a
   item_date: "2016-08-03 00:00:00"
   title: Kentik Technologies Closes $23 Million Series B Funding Round
   url: https://dzone.com/articles/kentik-technologies-closes-23-million-series-b-fun
   domain: dzone.com
   image: ""
-- curated_id: f1321d01a24483e1fd63f0867b4ff42b
-  item_date: "2016-08-04 00:00:00"
-  title: Network analytics startup Kentik pulls in $23M Series B
-  url: https://techcrunch.com/2016/08/04/network-analytics-startup-kentik-pulls-in-23m-series-b/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 8335184196fc0b8e1692d7376193a7da
   item_date: "2016-08-04 00:00:00"
   title: Formlabs raises  $35 million series B, announces Autodesk partnership
   url: https://techcrunch.com/2016/08/04/formlabs-series-b/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f1321d01a24483e1fd63f0867b4ff42b
+  item_date: "2016-08-04 00:00:00"
+  title: Network analytics startup Kentik pulls in $23M Series B
+  url: https://techcrunch.com/2016/08/04/network-analytics-startup-kentik-pulls-in-23m-series-b/
   domain: techcrunch.com
   image: ""
 - curated_id: 3c707bb5fce8c85a334e4c01c650a8a1
@@ -1023,19 +1023,19 @@
   url: http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/
   domain: venturebeat.com
   image: ""
-- curated_id: 37771d302dc2e506fc7736b35ae5f85a
-  item_date: "2016-08-26 00:00:00"
-  title: Rackspaces $4.3 billion deal to go private allows it to transition to cloud
-    support, strike more quickly
-  url: http://www.zdnet.com/article/rackspaces-4-3-billion-deal-to-go-private-allows-it-to-transition-to-cloud-support-strike-more/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: 80d12b416df2dfc55617890a0b1738db
   item_date: "2016-08-26 00:00:00"
   title: Amazon claims another victim as Rackspace finally goes private in a $4.3
     billion deal (RAX)
   url: http://www.businessinsider.com/amazon-claims-another-victim-as-rackspace-goes-private-2016-8
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 37771d302dc2e506fc7736b35ae5f85a
+  item_date: "2016-08-26 00:00:00"
+  title: Rackspaces $4.3 billion deal to go private allows it to transition to cloud
+    support, strike more quickly
+  url: http://www.zdnet.com/article/rackspaces-4-3-billion-deal-to-go-private-allows-it-to-transition-to-cloud-support-strike-more/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 53fd5f9ed3e5557fa69964189285468a
   item_date: "2016-08-29 08:59:29"
@@ -1104,6 +1104,13 @@
   url: http://www.bbc.co.uk/news/business-37360753
   domain: www.bbc.co.uk
   image: ""
+- curated_id: 05391ddc3f016b0fea1cb2bdc43a2bd8
+  item_date: "2016-09-21 00:00:00"
+  title: InfluxData closes $16 million Series B led by Battery Ventures to organize
+    IOT data
+  url: https://techcrunch.com/2016/09/21/influxdata-closes-16-million-series-b-led-by-battery-ventures-to-organize-iot-data/
+  domain: techcrunch.com
+  image: ""
 - curated_id: 00d73fdc183c32381b7511ae56cf6648
   item_date: "2016-09-21 00:00:00"
   title: Alexa Fund Adds New Company to Portfolio by Taking Lead Investor Role in
@@ -1117,11 +1124,10 @@
   url: https://techcrunch.com/2016/09/21/troops-a-slackbot-for-sales-launches-with-7-million/
   domain: techcrunch.com
   image: ""
-- curated_id: 05391ddc3f016b0fea1cb2bdc43a2bd8
-  item_date: "2016-09-21 00:00:00"
-  title: InfluxData closes $16 million Series B led by Battery Ventures to organize
-    IOT data
-  url: https://techcrunch.com/2016/09/21/influxdata-closes-16-million-series-b-led-by-battery-ventures-to-organize-iot-data/
+- curated_id: 4132b431c776f58c5acfc5f6bc962dbd
+  item_date: "2016-09-22 00:00:00"
+  title: Tax compliance software company Avalara raises $96 million
+  url: https://techcrunch.com/2016/09/22/tax-compliance-software-company-avalara-raises-96-million/
   domain: techcrunch.com
   image: ""
 - curated_id: 97f5e94a5ff29f267611a7a2d200f31f
@@ -1129,12 +1135,6 @@
   title: 'Red Hat Inc: Why Red Hat Stock is Smoking Hot Today'
   url: http://www.profitconfidential.com/stock/red-hat-inc-red-hat-stock-smoking-hot-today/
   domain: www.profitconfidential.com
-  image: ""
-- curated_id: 4132b431c776f58c5acfc5f6bc962dbd
-  item_date: "2016-09-22 00:00:00"
-  title: Tax compliance software company Avalara raises $96 million
-  url: https://techcrunch.com/2016/09/22/tax-compliance-software-company-avalara-raises-96-million/
-  domain: techcrunch.com
   image: ""
 - curated_id: eee1849c7a9be8c065b7f75e21965209
   item_date: "2016-09-26 00:00:00"
@@ -1149,6 +1149,18 @@
   url: http://www.zdnet.com/article/microsoft-leads-9-million-investment-round-in-container-security-startup-aqua-security/
   domain: www.zdnet.com
   image: ""
+- curated_id: 5db020eb59e8740fdcbd35511eada625
+  item_date: "2016-09-28 00:00:00"
+  title: 5 New Tools Partners Will See From SAPs Blockbuster $2.2 Billion IoT Investment
+  url: http://www.crn.com/slide-shows/internet-of-things/300082247/5-new-tools-partners-will-see-from-saps-blockbuster-2-2-billion-iot-investment.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 5d6956c9d41200d14d199dd9228e0671
+  item_date: "2016-09-28 00:00:00"
+  title: Obama Administration announces $80 million in smart cities funding
+  url: http://americancityandcounty.com/smart-cities/obama-administration-announces-80-million-smart-cities-funding
+  domain: americancityandcounty.com
+  image: ""
 - curated_id: 56f18f65414df0c88c9b8054117ddb3a
   item_date: "2016-09-28 00:00:00"
   title: Partners Say Ciscos $4B Commitment To Mexico Will Help Them Deliver Products
@@ -1162,53 +1174,17 @@
   url: http://www.zdnet.com/article/sap-allots-2-billion-for-iot-investments-buys-software-firm-plat-one/
   domain: www.zdnet.com
   image: ""
-- curated_id: 5d6956c9d41200d14d199dd9228e0671
-  item_date: "2016-09-28 00:00:00"
-  title: Obama Administration announces $80 million in smart cities funding
-  url: http://americancityandcounty.com/smart-cities/obama-administration-announces-80-million-smart-cities-funding
-  domain: americancityandcounty.com
-  image: ""
-- curated_id: 5db020eb59e8740fdcbd35511eada625
-  item_date: "2016-09-28 00:00:00"
-  title: 5 New Tools Partners Will See From SAPs Blockbuster $2.2 Billion IoT Investment
-  url: http://www.crn.com/slide-shows/internet-of-things/300082247/5-new-tools-partners-will-see-from-saps-blockbuster-2-2-billion-iot-investment.htm
-  domain: www.crn.com
-  image: ""
-- curated_id: 3d42f41ccad66d608de37f88a08702fe
-  item_date: "2016-09-29 00:00:00"
-  title: 'Amazon Launches $2.5 Million Alexa Prize Competition '
-  url: http://www.pcmag.com/news/348331/amazon-launches-2-5-million-alexa-prize-competition
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 48a66e49d553d3e614e59c69254189e5
   item_date: "2016-09-29 00:00:00"
   title: First Annual Alexa Prize ? $2.5 Million to Advance Conversational AI
   url: https://aws.amazon.com/blogs/aws/first-annual-alexa-prize-2-5-million-to-advance-conversational-ai/
   domain: aws.amazon.com
   image: ""
-- curated_id: 0c32528538df63d554a8f49fe2a39b06
-  item_date: "2016-09-30 00:00:00"
-  title: Nutanix, a Cloud-Based Business, Soars in I.P.O.
-  url: http://www.nytimes.com/2016/10/01/business/dealbook/nutanix-a-cloud-based-business-soars-in-ipo.html
-  domain: www.nytimes.com
-  image: ""
-- curated_id: 7d85ec2fa16d45f7094c20af363e5e7c
-  item_date: "2016-09-30 00:00:00"
-  title: Nutritionix API v2.0 Officially Launches
-  url: http://blog.nutritionix.com/2016/09/30/nutritionix-api-v2-0-officially-launches/
-  domain: blog.nutritionix.com
-  image: ""
-- curated_id: f77f01c1fff5d8d641147244d7beebc9
-  item_date: "2016-09-30 00:00:00"
-  title: Amazon Offers $2.5M To Make Alexa Your Friend
-  url: http://hackaday.com/2016/09/30/amazon-offers-2-5m-to-make-alexa-your-friend/
-  domain: hackaday.com
-  image: ""
-- curated_id: bf593a58938a5dd80b662e4771edb052
-  item_date: "2016-09-30 00:00:00"
-  title: Data storage provider Nutanix soars in market debut
-  url: http://www.reuters.com/article/us-nutanix-ipo-idUSKCN12021N
-  domain: www.reuters.com
+- curated_id: 3d42f41ccad66d608de37f88a08702fe
+  item_date: "2016-09-29 00:00:00"
+  title: 'Amazon Launches $2.5 Million Alexa Prize Competition '
+  url: http://www.pcmag.com/news/348331/amazon-launches-2-5-million-alexa-prize-competition
+  domain: www.pcmag.com
   image: ""
 - curated_id: e2b205702fcaeab0bf9a955a944831cf
   item_date: "2016-09-30 00:00:00"
@@ -1217,17 +1193,35 @@
   url: http://www.businessinsider.com/nutanix-ipo-pops-big-up-90-2016-9
   domain: www.businessinsider.com
   image: ""
+- curated_id: bf593a58938a5dd80b662e4771edb052
+  item_date: "2016-09-30 00:00:00"
+  title: Data storage provider Nutanix soars in market debut
+  url: http://www.reuters.com/article/us-nutanix-ipo-idUSKCN12021N
+  domain: www.reuters.com
+  image: ""
+- curated_id: 0c32528538df63d554a8f49fe2a39b06
+  item_date: "2016-09-30 00:00:00"
+  title: Nutanix, a Cloud-Based Business, Soars in I.P.O.
+  url: http://www.nytimes.com/2016/10/01/business/dealbook/nutanix-a-cloud-based-business-soars-in-ipo.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: f77f01c1fff5d8d641147244d7beebc9
+  item_date: "2016-09-30 00:00:00"
+  title: Amazon Offers $2.5M To Make Alexa Your Friend
+  url: http://hackaday.com/2016/09/30/amazon-offers-2-5m-to-make-alexa-your-friend/
+  domain: hackaday.com
+  image: ""
+- curated_id: 7d85ec2fa16d45f7094c20af363e5e7c
+  item_date: "2016-09-30 00:00:00"
+  title: Nutritionix API v2.0 Officially Launches
+  url: http://blog.nutritionix.com/2016/09/30/nutritionix-api-v2-0-officially-launches/
+  domain: blog.nutritionix.com
+  image: ""
 - curated_id: 8ecf761a5e438c0cdcccd760253ff060
   item_date: "2016-10-04 13:34:44"
   title: The Entire History of Kickstarter Projects, Broken Down by City
   url: http://polygraph.cool/kickstarter/
   domain: polygraph.cool
-  image: ""
-- curated_id: 8d4607f4a365adcc009ee22b427bcdc6
-  item_date: "2016-10-05 00:00:00"
-  title: Blockchain-for-Data Company Factom Raises $4.2M
-  url: http://bankinnovation.net/2016/10/blockchain-for-data-company-factom-raises-4-2m/
-  domain: bankinnovation.net
   image: ""
 - curated_id: 52b80183e9aec205f0ac40cf78af86e3
   item_date: "2016-10-05 00:00:00"
@@ -1236,24 +1230,11 @@
   url: http://www.reuters.com/article/us-factom-blockchain-draper-idUSKCN1251RG
   domain: www.reuters.com
   image: ""
-- curated_id: f8350cfe2bfc70c675a7071303f2daaf
-  item_date: "2016-10-13 00:00:00"
-  title: PlaceIQ Announces Strategic Investment From Alibaba Group, Expansion Into
-    China
-  url: http://placeiq.com/2016/10/13/placeiq-announces-strategic-investment-from-alibaba-group-expansion-into-china/
-  domain: placeiq.com
-  image: ""
-- curated_id: 565dc88995fddeaab223bb6f6e969cfa
-  item_date: "2016-10-13 00:00:00"
-  title: PlaceIQ Snags Alibaba As Customer And Investor
-  url: http://placeiq.com/2016/10/13/placeiq-snags-alibaba-as-customer-and-investor/
-  domain: placeiq.com
-  image: ""
-- curated_id: e12927b4b12b2fa65fc09a800cd815f3
-  item_date: "2016-10-13 00:00:00"
-  title: Mobile marketing and data startup mParticle raises $17.5M
-  url: https://techcrunch.com/2016/10/13/mparticle-series-b/
-  domain: techcrunch.com
+- curated_id: 8d4607f4a365adcc009ee22b427bcdc6
+  item_date: "2016-10-05 00:00:00"
+  title: Blockchain-for-Data Company Factom Raises $4.2M
+  url: http://bankinnovation.net/2016/10/blockchain-for-data-company-factom-raises-4-2m/
+  domain: bankinnovation.net
   image: ""
 - curated_id: 6d3fd15fdd09e0bf21568a7169c02501
   item_date: "2016-10-13 00:00:00"
@@ -1261,6 +1242,25 @@
     Data Platform
   url: http://blog.mparticle.com/series-b-announcement/
   domain: blog.mparticle.com
+  image: ""
+- curated_id: e12927b4b12b2fa65fc09a800cd815f3
+  item_date: "2016-10-13 00:00:00"
+  title: Mobile marketing and data startup mParticle raises $17.5M
+  url: https://techcrunch.com/2016/10/13/mparticle-series-b/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 565dc88995fddeaab223bb6f6e969cfa
+  item_date: "2016-10-13 00:00:00"
+  title: PlaceIQ Snags Alibaba As Customer And Investor
+  url: http://placeiq.com/2016/10/13/placeiq-snags-alibaba-as-customer-and-investor/
+  domain: placeiq.com
+  image: ""
+- curated_id: f8350cfe2bfc70c675a7071303f2daaf
+  item_date: "2016-10-13 00:00:00"
+  title: PlaceIQ Announces Strategic Investment From Alibaba Group, Expansion Into
+    China
+  url: http://placeiq.com/2016/10/13/placeiq-announces-strategic-investment-from-alibaba-group-expansion-into-china/
+  domain: placeiq.com
   image: ""
 - curated_id: ebf05f4c0c787afc651bd55fb166e096
   item_date: "2016-10-20 16:47:38"
@@ -1286,29 +1286,29 @@
   url: http://spectrum.ieee.org/nanoclast/semiconductors/nanotechnology/gordon-moores-foundation-funds-first-of-50-fellows-in-34-million-plan
   domain: spectrum.ieee.org
   image: ""
-- curated_id: b8f70f3707122ad45a6e6251fce1a030
-  item_date: "2016-11-03 00:00:00"
-  title: Twilio?s Revenue Climbs 62%
-  url: http://www.wsj.com/articles/twilios-revenue-climbs-62-1478211482
-  domain: www.wsj.com
-  image: ""
 - curated_id: 46420104a9501a6bc13998b0a45ef876
   item_date: "2016-11-03 00:00:00"
   title: Twilio tops Q3 earnings targets, losses widen
   url: http://www.zdnet.com/article/twilio-tops-q3-earnings-targets-losses-widen/
   domain: www.zdnet.com
   image: ""
-- curated_id: 59b950a0368fa0127797f4a905c30ca5
-  item_date: "2016-11-04 00:00:00"
-  title: Obama Caps Off His EV Legacy by Electrifying American Highways
-  url: https://www.wired.com/2016/11/obama-caps-off-ev-legacy-electrifying-american-highways/
-  domain: www.wired.com
+- curated_id: b8f70f3707122ad45a6e6251fce1a030
+  item_date: "2016-11-03 00:00:00"
+  title: Twilio?s Revenue Climbs 62%
+  url: http://www.wsj.com/articles/twilios-revenue-climbs-62-1478211482
+  domain: www.wsj.com
   image: ""
 - curated_id: d0a9038b116f02fc3d7f45f7773cde09
   item_date: "2016-11-04 00:00:00"
   title: Periscope Data pulls in $25 million in Series B
   url: https://techcrunch.com/2016/11/04/periscope-data-pulls-in-25-million-in-series-b/
   domain: techcrunch.com
+  image: ""
+- curated_id: 59b950a0368fa0127797f4a905c30ca5
+  item_date: "2016-11-04 00:00:00"
+  title: Obama Caps Off His EV Legacy by Electrifying American Highways
+  url: https://www.wired.com/2016/11/obama-caps-off-ev-legacy-electrifying-american-highways/
+  domain: www.wired.com
   image: ""
 - curated_id: 4de14867afb9bea8a0c7f256d2eb545a
   item_date: "2016-11-07 00:00:00"
@@ -1352,12 +1352,6 @@
   url: http://www.businessinsider.com/uk-funds-drone-trials-around-the-world-2016-12
   domain: www.businessinsider.com
   image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2017-01-04 00:00:00"
-  title: Ev Williams Announces Layoffs at Medium
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: ab01483a460b8ac727ea83e7f3089eee
   item_date: "2017-01-04 00:00:00"
   title: Canadian fintech is revitalizing the startup scene attracting major funding
@@ -1371,23 +1365,29 @@
   url: http://www.businessinsider.com/twitter-cofounder-evan-williams-lays-off-one-third-of-staff-at-medium-closes-two-offices-2017-1
   domain: www.businessinsider.com
   image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-01-04 00:00:00"
+  title: Ev Williams Announces Layoffs at Medium
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
 - curated_id: ba0681b5f41f4a19936a9669b2043a14
   item_date: "2017-01-05 00:00:00"
   title: Venture capital is going to murder Medium
   url: https://m.signalvnoise.com/venture-capital-is-going-to-murder-medium-656cbccf4829#.8oqnzfix1
   domain: m.signalvnoise.com
   image: ""
-- curated_id: 629bdfa231409e8069adda9556f89cdf
-  item_date: "2017-01-09 00:00:00"
-  title: Trigger Creates Alert for Trump Tweets About Portfolio Companies
-  url: http://bankinnovation.net/2017/01/trigger-creates-alert-for-trump-tweets-about-portfolio-companies/
-  domain: bankinnovation.net
-  image: ""
 - curated_id: fbb1707564b95830d1cf612bed879b90
   item_date: "2017-01-09 00:00:00"
   title: 'TWLO: Why Im Staying Away From Twilio Stock for Now'
   url: http://investorplace.com/2017/01/stay-away-twilio-inc-twlo-stock/
   domain: investorplace.com
+  image: ""
+- curated_id: 629bdfa231409e8069adda9556f89cdf
+  item_date: "2017-01-09 00:00:00"
+  title: Trigger Creates Alert for Trump Tweets About Portfolio Companies
+  url: http://bankinnovation.net/2017/01/trigger-creates-alert-for-trump-tweets-about-portfolio-companies/
+  domain: bankinnovation.net
   image: ""
 - curated_id: bfc2fe28924c9fc009371051fcce600f
   item_date: "2017-01-09 20:23:51"
@@ -1432,29 +1432,29 @@
   url: https://techcrunch.com/2017/01/31/feedvisor-20m-gc/
   domain: techcrunch.com
   image: ""
-- curated_id: 235bb1a9c6fec757e7a9c94cce973afd
-  item_date: "2017-02-02 00:00:00"
-  title: Snapchats parent company files for $3 Billion U.S. IPO
-  url: http://boingboing.net/2017/02/02/snapchat-files-for-ipo.html
-  domain: boingboing.net
-  image: ""
 - curated_id: 4b503fe69e5161225839de918e25dff3
   item_date: "2017-02-02 00:00:00"
   title: Snapchat files plans for US stock market listing
   url: http://www.bbc.co.uk/news/business-38850229
   domain: www.bbc.co.uk
   image: ""
-- curated_id: eb68430fdb59d3e3478d99234cfd7f7a
-  item_date: "2017-02-08 00:00:00"
-  title: Xeneta raises $12M Series B to crack open ocean freight pricing
-  url: https://techcrunch.com/2017/02/08/xeneta-series-b/
-  domain: techcrunch.com
+- curated_id: 235bb1a9c6fec757e7a9c94cce973afd
+  item_date: "2017-02-02 00:00:00"
+  title: Snapchats parent company files for $3 Billion U.S. IPO
+  url: http://boingboing.net/2017/02/02/snapchat-files-for-ipo.html
+  domain: boingboing.net
   image: ""
 - curated_id: c00c3a96d0b3f0edc27127995781424e
   item_date: "2017-02-08 00:00:00"
   title: Venture firm Trident Capital raises $300 million for cyber security startups
   url: http://www.reuters.com/article/us-tridentcapital-cyber-idUSKBN15N1L7
   domain: www.reuters.com
+  image: ""
+- curated_id: eb68430fdb59d3e3478d99234cfd7f7a
+  item_date: "2017-02-08 00:00:00"
+  title: Xeneta raises $12M Series B to crack open ocean freight pricing
+  url: https://techcrunch.com/2017/02/08/xeneta-series-b/
+  domain: techcrunch.com
   image: ""
 - curated_id: 8752eb201c42e247d1cabba7e0ba24cc
   item_date: "2017-02-09 00:00:00"
@@ -1489,16 +1489,10 @@
   url: https://techcrunch.com/2017/02/18/ford-invests-in-pittsburgh-based-argo-ai-to-build-self-driving-cars-by-2021/
   domain: techcrunch.com
   image: ""
-- curated_id: efacbe17f148711109382a17070a2aee
+- curated_id: e7494a4134cc8f0bae81ae5ac188f4bb
   item_date: "2017-02-22 00:00:00"
-  title: Voysis raises $8 million to help it become the Twillio of voice AI
-  url: https://techcrunch.com/2017/02/22/voysis-raises-8-million-to-help-it-become-the-the-twillio-of-voice-ai/
-  domain: techcrunch.com
-  image: ""
-- curated_id: a31faeebc484322f3448d253daf01abd
-  item_date: "2017-02-22 00:00:00"
-  title: "Fitbit reveals it paid $23 million to acquire Pebble\u2019s assets"
-  url: https://techcrunch.com/2017/02/22/fitbit-pebble-acquisition/
+  title: Clinc raises a $6.3M Series A to advance its AI for banking platform
+  url: https://techcrunch.com/2017/02/22/clinc-raises-a-6-3m-series-a-to-advance-its-ai-for-banking-platform/
   domain: techcrunch.com
   image: ""
 - curated_id: 374e53c3120c68c8ff8f9dda4f01c829
@@ -1514,10 +1508,16 @@
   url: http://www.crn.com/news/channel-programs/video/300083867/iot-verizon-acquires-drone-management-company-to-help-manage-and-connect-moving-devices.htm
   domain: www.crn.com
   image: ""
-- curated_id: e7494a4134cc8f0bae81ae5ac188f4bb
+- curated_id: efacbe17f148711109382a17070a2aee
   item_date: "2017-02-22 00:00:00"
-  title: Clinc raises a $6.3M Series A to advance its AI for banking platform
-  url: https://techcrunch.com/2017/02/22/clinc-raises-a-6-3m-series-a-to-advance-its-ai-for-banking-platform/
+  title: Voysis raises $8 million to help it become the Twillio of voice AI
+  url: https://techcrunch.com/2017/02/22/voysis-raises-8-million-to-help-it-become-the-the-twillio-of-voice-ai/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a31faeebc484322f3448d253daf01abd
+  item_date: "2017-02-22 00:00:00"
+  title: "Fitbit reveals it paid $23 million to acquire Pebble\u2019s assets"
+  url: https://techcrunch.com/2017/02/22/fitbit-pebble-acquisition/
   domain: techcrunch.com
   image: ""
 - curated_id: 000d508cb9298618d6f4a14487fdc359
@@ -1558,17 +1558,17 @@
   url: https://www.techdirt.com/articles/20170306/09583336853/bill-gates-other-major-investors-put-526-million-into-site-sharing-unauthorized-copies-academic-papers.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: 7c159e3f9d167bf9cff09b11039e398e
-  item_date: "2017-03-17 00:00:00"
-  title: Tesla just raised $1.2 billion ahead of its Model 3 launch (TSLA)
-  url: http://www.businessinsider.com/r-tesla-raises-12-billion-20-percent-more-than-planned-2017-3
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: ea70950a1121ed10f96a179ef5854298
   item_date: "2017-03-17 00:00:00"
   title: MuleSoft Makes Debut As Public Company After IPO on NYSE
   url: https://www.programmableweb.com/news/mulesoft-makes-debut-public-company-after-ipo-nyse/2017/03/17
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 7c159e3f9d167bf9cff09b11039e398e
+  item_date: "2017-03-17 00:00:00"
+  title: Tesla just raised $1.2 billion ahead of its Model 3 launch (TSLA)
+  url: http://www.businessinsider.com/r-tesla-raises-12-billion-20-percent-more-than-planned-2017-3
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 76eb5b309b4779457322d572f41f95fa
   item_date: "2017-03-21 00:00:00"
@@ -1594,17 +1594,17 @@
   url: http://www.businessinsider.com/lyft-raises-500-million-now-valued-at-75-billion-uber-2017-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: 5810aab737d92e49af96535fb4558c6a
-  item_date: "2017-04-07 00:00:00"
-  title: Otonomo raises $25M to help automakers make money from connected cars
-  url: https://techcrunch.com/2017/04/07/otonomo-raises-25m-to-help-automakers-make-money-from-connected-cars/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 1f76ca95b5aa154e3e365f7d6d424b72
   item_date: "2017-04-07 00:00:00"
   title: 'Okta Goes Public In First Big Cybersecurity IPO Of The Year '
   url: http://www.crn.com/news/security/300084489/okta-goes-public-in-first-big-cybersecurity-ipo-of-the-year.htm
   domain: www.crn.com
+  image: ""
+- curated_id: 5810aab737d92e49af96535fb4558c6a
+  item_date: "2017-04-07 00:00:00"
+  title: Otonomo raises $25M to help automakers make money from connected cars
+  url: https://techcrunch.com/2017/04/07/otonomo-raises-25m-to-help-automakers-make-money-from-connected-cars/
+  domain: techcrunch.com
   image: ""
 - curated_id: 23f37a9d1a91a1f82d944bf41fe60bcb
   item_date: "2017-04-20 00:00:00"
@@ -1613,18 +1613,18 @@
   url: http://www.businessinsider.com/getaround-secures-45-million-in-funding-round-aided-by-toyota-2017-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: b8314f9ca77d6cb4b737393c6ecea57a
-  item_date: "2017-04-28 00:00:00"
-  title: Tencent to open AI research center in Seattle
-  url: https://techcrunch.com/2017/04/28/tencent-to-open-ai-research-center-in-seattle/
-  domain: techcrunch.com
-  image: ""
 - curated_id: aa60abb8bd55cf3717ba37818f8f795d
   item_date: "2017-04-28 00:00:00"
   title: Enterprise data company Cloudera explodes in its opening minutes of trading
     (CLDR)
   url: http://markets.businessinsider.com/news/stocks/cloudera-ipo-nyse-enterprise-data-2017-4-1001962558
   domain: markets.businessinsider.com
+  image: ""
+- curated_id: b8314f9ca77d6cb4b737393c6ecea57a
+  item_date: "2017-04-28 00:00:00"
+  title: Tencent to open AI research center in Seattle
+  url: https://techcrunch.com/2017/04/28/tencent-to-open-ai-research-center-in-seattle/
+  domain: techcrunch.com
   image: ""
 - curated_id: 6b7ffad821f748f3cf441cd06d4a76b7
   item_date: "2017-04-28 07:20:01"
@@ -1645,12 +1645,6 @@
   url: http://www.reuters.com/article/us-twitter-stocks-idUSKBN17X24X
   domain: www.reuters.com
   image: ""
-- curated_id: 0ff68bcd3d93686d51e77e10d299f0aa
-  item_date: "2017-05-02 00:00:00"
-  title: Bitfusion raises $5M for its AI lifecycle management platform
-  url: https://techcrunch.com/2017/05/02/bitfusion-raises-5m-for-its-ai-lifecycle-management-platform/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 72ba7195da1e864c336ccb533d4bc421
   item_date: "2017-05-02 00:00:00"
   title: Twilio stock takes a nosedive in after-hours trading on weak guidance
@@ -1662,6 +1656,12 @@
   title: Twilio crashes after its full-year forecasts miss big (TWLO)
   url: http://www.businessinsider.com/twilio-earnings-q1-2017-5
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 0ff68bcd3d93686d51e77e10d299f0aa
+  item_date: "2017-05-02 00:00:00"
+  title: Bitfusion raises $5M for its AI lifecycle management platform
+  url: https://techcrunch.com/2017/05/02/bitfusion-raises-5m-for-its-ai-lifecycle-management-platform/
+  domain: techcrunch.com
   image: ""
 - curated_id: 207b9ea2b38289e2acdab8597aa13dbc
   item_date: "2017-05-04 00:00:00"
@@ -1675,17 +1675,17 @@
   url: https://www.nytimes.com/2017/05/07/business/hedge-fund-leaders-will-gather-and-uber-may-learn-fate-in-europe.html
   domain: www.nytimes.com
   image: ""
-- curated_id: fb2ec6d53765a0efb126559dafd5a0a0
-  item_date: "2017-05-09 00:00:00"
-  title: How high can weed tech go? Pretty high if you ask Silicon Valley
-  url: https://thenextweb.com/tech/2017/05/09/high-can-weed-tech-go-pretty-high-ask-silicon-valley/
-  domain: thenextweb.com
-  image: ""
 - curated_id: 19099d332e3b5c399dad2d775ee8c4d9
   item_date: "2017-05-09 00:00:00"
   title: Free streaming service Tubi TV grabs $20 million in new funding
   url: https://techcrunch.com/2017/05/09/free-streaming-service-tubi-tv-grabs-20-million-in-new-funding/
   domain: techcrunch.com
+  image: ""
+- curated_id: fb2ec6d53765a0efb126559dafd5a0a0
+  item_date: "2017-05-09 00:00:00"
+  title: How high can weed tech go? Pretty high if you ask Silicon Valley
+  url: https://thenextweb.com/tech/2017/05/09/high-can-weed-tech-go-pretty-high-ask-silicon-valley/
+  domain: thenextweb.com
   image: ""
 - curated_id: 55153e63e0356f6fc75c8cb7f321376d
   item_date: "2017-05-09 09:38:25"
